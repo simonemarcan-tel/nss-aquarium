@@ -1,0 +1,12 @@
+.martins-fish-list__fish {
+    display: flex;
+    border: .1em solid rgba(223, 27, 27, 0.345);
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 1em;
+    margin: 0.5em;
+    flex-basis: 16%;
+    text-align: center;
+
+
+}
